@@ -1,7 +1,6 @@
 # Silentium — HackTheBox Writeup
 
-**Platform:** HackTheBox  
-**Difficulty:** Medium  
+**Platform:** HackTheBox    
 **OS:** Linux  
 **Tags:** CVE-2025-58434, Flowise Account Takeover, CVE-2025-59528, Flowise RCE, Docker, Port Forwarding, Gogs RCE
 
