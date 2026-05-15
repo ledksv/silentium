@@ -18,9 +18,9 @@ PORT   STATE SERVICE VERSION
 
 ---
 
-## 🔒 Walkthrough Locked
+## Full Walkthrough
 
-This machine is still active on HackTheBox. The full writeup will be published upon retirement.
+Full writeup published at [Silentium — L3dSec](https://l3dsec.vercel.app/walkthroughs/silentium-htb)
 
 ---
 
