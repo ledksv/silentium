@@ -1,27 +1,23 @@
 # Silentium — HackTheBox
 
-**Platform:** HackTheBox  
-**OS:** Linux
+**Platform:** HackTheBox
 
----
+**Status: Active — walkthrough locked pending machine retirement.**
 
 ## Enumeration
 
 ```
-nmap -sV -sC -p- -Pn 10.129.52.140
+nmap -sV -sC -p- -Pn <TARGET_IP>
 
 PORT   STATE SERVICE VERSION
-22/tcp open  ssh     OpenSSH 9.6p1 Ubuntu 3ubuntu13.15
-80/tcp open  http    nginx 1.24.0 (Ubuntu)
-|_http-title: Silentium | Institutional Capital & Lending Solutions
+22/tcp open  ssh     OpenSSH 9.6p1 Ubuntu
+80/tcp open  http    nginx 1.24.0
 ```
 
----
+Added `silentium.htb` to `/etc/hosts` and proceeded with further enumeration.
 
-## Full Walkthrough
+## 🔒 Walkthrough Locked
 
-Full writeup published at [Silentium — L3dSec](https://l3dsec.vercel.app/walkthroughs/silentium-htb)
-
----
+This machine is still active on HackTheBox. Full writeup will be published on [l3dsec.com](https://l3dsec.com) upon retirement.
 
 > ⚠️ For educational purposes only. Only test systems you own or have explicit written permission to test.
